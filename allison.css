@@ -1,0 +1,15 @@
+body{
+    margin: auto;
+    padding: auto;
+    text-align: center;    
+}
+
+button{
+    width: 100px;
+    height: 75px;
+    border-radius: 10px;
+    background-color: rgb(244, 137, 158);
+    color: white;
+    border-color: rgb(244, 137, 158)
+}
+
